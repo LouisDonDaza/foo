@@ -1,2 +1,0 @@
-# foo
-testing gh pages
